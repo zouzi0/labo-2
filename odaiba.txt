@@ -1,0 +1,22 @@
+Titre: Odaiba
+
+Photo de droite: gundam.jpg (URL: https://en.wikipedia.org/wiki/Statue_of_Unicorn_Gundam)
+
+Description:
+
+    Odaiba (お台場), parfois appelé Daiba, est une grande île artificielle située dans la baie de Tokyo au Japon. Daiba en
+    japonais signifie forteresse, en référence aux batteries de canons positionnées sur les îles. Administrativement,
+    Odaiba appartient aux arrondissements de Minato et de Kōtō.
+
+    Celle-ci possède des hôtels, des commerces, des musées, des bureaux dont ceux de Fuji TV conçus par Kenzō Tange, une
+    plage (la baignade n'y est pas recommandée), une grande roue, des sources d'eaux chaudes et des parcs.
+
+    C'est aussi à cet endroit qu'on peut voir une statue géante tirée de la populaire série animé Gundam (voir photo).
+    La statue RX-0 Unicorn Gundam a commencé sa construction en août 2017 et a été dévoilée le 24 septembre 2017.
+    Toutes les deux heures, elle présente une transformation automatique du mode Licorne au mode Destruction, avec la
+    tête, les épaules, les jupes avant et l'armure des genoux passant d'un mode à l'autre. La statue comporte des
+    panneaux LED qui s'allument en rouge ou en vert. La statue Gundam Unicorn mesure 19,7 mètres de hauteur et pèse 49
+    tonnes. Pendant la nuit, le mur derrière la Licorne Gundam agit comme un écran de théâtre qui diffuse des courts
+    métrages tandis que la statue est décorée avec des jeux d'éclairage spéciaux.
+
+Pour plus de détails: https://fr.wikipedia.org/wiki/Odaiba

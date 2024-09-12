@@ -1,0 +1,27 @@
+Titre: Akihabara
+
+Photo de droite: akihabara.jpg (Non-cliquable)
+
+Description:
+
+    Akihabara (秋葉原) est un quartier de Tokyo situé à cheval sur les arrondissements de Chiyoda et de Taitō. Il est
+    célèbre pour ses très nombreuses boutiques d'électronique et pour les mangas qui s'y trouvent. Il est connu dans le
+    monde sous le nom de Akihabara Electric Town (秋葉原電気街, Akihabara denki-gai). Le centre de ce quartier est la gare
+    d'Akihabara.
+
+    Le succès d'Akihabara tient dans le fait que jusqu'à présent, il a réussi à faire cohabiter de toutes petites
+    boutiques ultraspécialisées aux côtés des « supermarchés » de l'électronique grand public. Cependant, depuis
+    quelques années, les grandes enseignes de l'électronique japonaise (Laox, Sofmap (en), voire Yodobashi Camera et
+    Yamada Denki) rachètent les petits magasins en difficulté pour en faire des annexes des leurs.
+    
+    Dans les petites boutiques situées dans les marchés couverts, ou les ruelles étroites, on peut trouver tout un tas
+    de pièces détachées et d'accessoires allant de la guirlande électrique au matériel de surveillance vidéo, en passant
+    par toutes sortes de composants électroniques et autres multiprises.
+    
+    Les grands magasins sont, quant à eux, les rois de l'électroménager dernier cri, de la téléphonie mobile, des
+    ordinateurs et des jeux vidéo. Sur les grands axes, on trouve aussi des grands magasins qui vendent des produits
+    hors taxes pour les touristes. On peut même y trouver, à bon prix, des produits japonais destinés au marché
+    français. Le quartier contient également le bâtiment Akihabara Radio Kaikan, ce dernier est l'un des monuments les
+    plus connus du district.
+    
+Pour plus de détails: https://fr.wikipedia.org/wiki/Akihabara
